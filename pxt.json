@@ -8,7 +8,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "no_coding.md",
+        "no_coding2.md"
     ],
     "testFiles": [
         "test.ts"
@@ -19,5 +21,6 @@
     },
     "supportedTargets": [
         "minecraft"
-    ]
+    ],
+    "preferredEditor": "tsprj"
 }
